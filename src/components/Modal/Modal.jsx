@@ -3,10 +3,10 @@ import { Modal } from 'react-bootstrap';
 import port from "../../imgs/portfolio/cabin.png";
 import cake from "../../imgs/portfolio/cake.png";
 import circus from "../../imgs/portfolio/circus.png";
-import submarine from "../../imgs/portfolio/submarine.png";
-import safe from "../../imgs/portfolio/safe.png";
 import game from "../../imgs/portfolio/game.png";
-import './Modal.css'
+import safe from "../../imgs/portfolio/safe.png";
+import submarine from "../../imgs/portfolio/submarine.png";
+import './Modal.css';
 
 function MyModal({ id, title, body, imageSrc, show, handleClose }) {
     return (

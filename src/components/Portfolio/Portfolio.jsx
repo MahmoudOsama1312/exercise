@@ -1,12 +1,12 @@
 import React from "react";
-import "./portfolio.css";
+import { Link } from "react-router-dom";
 import port from "../../imgs/portfolio/cabin.png";
 import cake from "../../imgs/portfolio/cake.png";
 import circus from "../../imgs/portfolio/circus.png";
-import submarine from "../../imgs/portfolio/submarine.png";
-import safe from "../../imgs/portfolio/safe.png";
 import game from "../../imgs/portfolio/game.png";
-import { Link } from "react-router-dom";
+import safe from "../../imgs/portfolio/safe.png";
+import submarine from "../../imgs/portfolio/submarine.png";
+import "./portfolio.css";
 
 export default function Portfolio() {
   return (

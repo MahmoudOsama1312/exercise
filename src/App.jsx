@@ -1,16 +1,15 @@
 import React from 'react'
-import StartReact from './components/StartReact/StartReact'
+import { createHashRouter, RouterProvider } from "react-router-dom"
 import About from './components/About/About.jsx'
 import ContactMe from './components/ContactMe/ContactMe'
-import Portfolio from './components/Portfolio/Portfolio'
-import { createBrowserRouter, RouterProvider, } from "react-router-dom";
-import NotFound from './components/NotFound/NotFound'
 import MasterRouting from './components/MasterRouting/MasterRouting'
 import MyModal from './components/Modal/Modal'
+import NotFound from './components/NotFound/NotFound'
+import StartReact from './components/StartReact/StartReact'
 
 export default function App() {
 
-  let routes = createBrowserRouter([
+  let routes = createHashRouter([
     {
       path: '/', element: <MasterRouting />, errorElement: <NotFound />,
       children: [
