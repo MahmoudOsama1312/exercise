@@ -1,0 +1,35 @@
+.portfolio {
+    color: rgb(26, 105, 125);
+    min-height: 800px;
+}
+
+.divider2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.divider-line2 {
+    background-color: rgb(26, 105, 125);
+    height: 4px;
+    border-radius: 1rem;
+    color: black;
+    width: 15%;
+}
+.portfolio-item{
+    height: 250px;
+    width: 250px;
+    
+}
+.img1{
+    z-index: 2;
+}
+.img1:hover {
+    opacity: .2;
+    transition: .9s;
+    -webkit-transition: .9s;
+    -moz-transition: .9s;
+    -ms-transition: .9s;
+    -o-transition: .9s;
+}

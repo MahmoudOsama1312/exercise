@@ -1,0 +1,28 @@
+.modals{
+    color: rgb(26, 105, 125);
+}
+
+.divider2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.divider-line2 {
+    background-color: rgb(26, 105, 125);
+    height: 4px;
+    border-radius: 1rem;
+    color: black;
+    width: 15%;
+}
+.picture{
+    transition: 0.5s;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -ms-transition: 0.5s;
+    -o-transition: 0.5s;
+}
+.picture:hover{
+    opacity: .8
+}

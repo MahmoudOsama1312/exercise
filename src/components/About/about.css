@@ -1,0 +1,22 @@
+.about{
+    background-color: #1abc9c;
+}
+.divider {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.divider-line {
+    background-color: white;
+    height: 4px;
+    border-radius: 1rem;
+    color: black;
+    width: 15%;
+    margin: 30px;
+}
+.aboutText{
+    font-size: 20px;
+    line-height: 35px;
+}

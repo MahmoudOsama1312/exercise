@@ -1,0 +1,26 @@
+.start-react{
+    background-color: rgb(12, 254, 254);
+}
+
+.start-avatar{
+    width: 240px;
+    height: 255px;
+}
+
+.divider{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.divider-line{
+    background-color: white;
+    height: 4px;
+    border-radius: 1rem;
+    color: black;
+    width: 15%;
+    margin: 30px;
+}
+.information{
+    font-size: 20px;
+}
