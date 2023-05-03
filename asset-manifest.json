@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/exercise/static/css/main.14a44e80.css",
+    "main.js": "/exercise/static/js/main.6586e847.js",
+    "static/media/notFound.gif": "/exercise/static/media/notFound.0331148bddbbf1bbb6f2.gif",
+    "static/media/fa-solid-900.ttf": "/exercise/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/fa-brands-400.ttf": "/exercise/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/fa-solid-900.woff2": "/exercise/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/fa-brands-400.woff2": "/exercise/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/fa-regular-400.ttf": "/exercise/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/cabin.png": "/exercise/static/media/cabin.4417330275f78faa31c3.png",
+    "static/media/circus.png": "/exercise/static/media/circus.494a4a914b5471b41f3e.png",
+    "static/media/game.png": "/exercise/static/media/game.a940b57aa7bab2eacc52.png",
+    "static/media/fa-regular-400.woff2": "/exercise/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/submarine.png": "/exercise/static/media/submarine.48c9704ca7f8ce901038.png",
+    "static/media/safe.png": "/exercise/static/media/safe.01792c0bdc342bf4bf9c.png",
+    "static/media/cake.png": "/exercise/static/media/cake.6554473016d32b343f02.png",
+    "static/media/avataaars.svg": "/exercise/static/media/avataaars.aa9aff02ddd0ef36a1724ecef4133df9.svg",
+    "static/media/fa-v4compatibility.ttf": "/exercise/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/exercise/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "index.html": "/exercise/index.html",
+    "main.14a44e80.css.map": "/exercise/static/css/main.14a44e80.css.map",
+    "main.6586e847.js.map": "/exercise/static/js/main.6586e847.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14a44e80.css",
+    "static/js/main.6586e847.js"
+  ]
+}
